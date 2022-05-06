@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BlokhinLab3
+namespace BlokhinLab5
 {
     internal static class Program
     {
@@ -16,8 +16,7 @@ namespace BlokhinLab3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Task1());
-            Application.Run(new Task2());
+            Application.Run(new Form1());
         }
     }
 }

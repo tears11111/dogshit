@@ -16,7 +16,7 @@ namespace BlokhinLab222
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Task1());
+            Application.Run(new Task1());
             Application.Run(new Task2());
         }
     }

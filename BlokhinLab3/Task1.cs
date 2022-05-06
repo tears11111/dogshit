@@ -61,9 +61,9 @@ namespace BlokhinLab3
                     additionalSum = z0 * 0.1 * t1;
 
                     table[t1, 0] = t1.ToString();
-                    table[t1, 1] = resultSum1.ToString("#.##");
+                    table[t1, 1] = resultSum1.ToString(".#");
                     table[t1, 2] = t1.ToString();
-                    table[t1, 3] = resultSum2.ToString("#.##");
+                    table[t1, 3] = resultSum2.ToString(".#");
                     sb.Append(table[t1, 0] + "\t");
                     sb.Append(table[t1, 1] + "\t");
                     sb.Append(table[t1, 2] + "\t");
@@ -75,7 +75,7 @@ namespace BlokhinLab3
                 resultSum1 += currentSumCase1 * (i * 0.01);
                 currentSumCase1 = resultSum1;
                 table[t1, 0] = t1.ToString();
-                table[t1, 1] = resultSum1.ToString("#.##");
+                table[t1, 1] = resultSum1.ToString(".#");
                 table[t1, 2] = "\t";
                 table[t1, 3] = "\n";
 

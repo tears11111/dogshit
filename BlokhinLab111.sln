@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlokhinLab2", "BlokhinLab22
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlokhinLab3", "BlokhinLab3\BlokhinLab3.csproj", "{D22008E8-564A-477D-B32E-731214DD9F33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlokhinLab4", "BlokhinLab4\BlokhinLab4.csproj", "{DB3F33CD-78C5-43D5-B736-6655339542D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlokhinLab5", "BlokhinLab5\BlokhinLab5.csproj", "{7FAB9583-5D6D-4C10-9C64-24F2D218E720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D22008E8-564A-477D-B32E-731214DD9F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D22008E8-564A-477D-B32E-731214DD9F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D22008E8-564A-477D-B32E-731214DD9F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3F33CD-78C5-43D5-B736-6655339542D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3F33CD-78C5-43D5-B736-6655339542D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3F33CD-78C5-43D5-B736-6655339542D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3F33CD-78C5-43D5-B736-6655339542D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAB9583-5D6D-4C10-9C64-24F2D218E720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAB9583-5D6D-4C10-9C64-24F2D218E720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAB9583-5D6D-4C10-9C64-24F2D218E720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAB9583-5D6D-4C10-9C64-24F2D218E720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
